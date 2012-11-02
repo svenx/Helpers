@@ -1,0 +1,96 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="10" />
+      <Item value="static" priority="5" />
+      <Item value="Trace`0" priority="1" />
+      <Item value="string" priority="10" />
+      <Item value="text" priority="3" />
+      <Item value="int" priority="3" />
+      <Item value="private" priority="3" />
+      <Item value="_i" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="_textList" priority="1" />
+      <Item value="void" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="newList" priority="0" />
+      <Item value="TraceData`0" priority="3" />
+      <Item value="_text" priority="0" />
+      <Item value="_level" priority="0" />
+      <Item value="level" priority="0" />
+      <Item value="traceData" priority="3" />
+      <Item value="IOutputStrategy`0" priority="0" />
+      <Item value="_outputStrategy" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="TraceData" priority="0" />
+      <Item value="set" priority="2" />
+      <Item value="get" priority="1" />
+      <Item value="ITraceOutputStrategy`0" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="FormatTrace`0" priority="1" />
+      <Item value="s" priority="1" />
+      <Item value="NextFormatting" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Helpers.TraceOutput.IOutputStrategy">
+      <Item value="OutputTrace`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Helpers.TraceOutput.TraceData">
+      <Item value="Level" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Helpers.TraceOutput.FormatTrace">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:TraceData.cs" caret="169" fromTop="7" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:Trace.cs" caret="124" fromTop="7" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:ITraceOutputStrategy.cs" caret="213" fromTop="9" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:OutputConsoleStrategy.cs" caret="214" fromTop="8" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:FormatTrace.cs" caret="207" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:Trace.cs" caret="399" fromTop="8" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:Trace.cs" caret="275" fromTop="14" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:Trace.cs" caret="104" fromTop="5" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:TraceData.cs" caret="292" fromTop="10" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:TraceData.cs" caret="307" fromTop="10" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:TraceData.cs" caret="187" fromTop="6" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:TraceData.cs" caret="169" fromTop="7" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:Trace.cs" caret="397" fromTop="26" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:Trace.cs" caret="275" fromTop="16" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:Trace.cs" caret="124" fromTop="7" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:ITraceOutputStrategy.cs" caret="222" fromTop="9" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:OutputConsoleStrategy.cs" caret="110" fromTop="4" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:OutputConsoleStrategy.cs" caret="223" fromTop="8" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:FormatTrace.cs" caret="413" fromTop="11" />
+      <File id="C55BB299-14BE-4777-9FA1-650EF0FBB1EE/d:TraceOutput/f:FormatTrace.cs" caret="207" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
